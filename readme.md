@@ -10,9 +10,8 @@ Below you find a set of charts demonstrating the paths that you can take and the
 > The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
 
 ## Avis de non-responsabilité !
-Le but de cette feuille de route est de vous donner une idée du paysage et de vous guider si vous êtes confus sur ce qu'il faut apprendre ensuite et non pas de vous encourager à apprendre ce qui est branché et à la mode. Vous devriez mieux comprendre pourquoi un outil serait mieux adapté à certains cas que l'autre et vous rappeler que ce qui est branché et à la mode n'est jamais ce qui convient le mieux au travail.
+> Le but de cette feuille de route est de vous donner une idée du paysage et de vous guider si vous êtes confus sur ce qu'il faut apprendre ensuite et non pas de vous encourager à apprendre ce qui est branché et à la mode. Vous devriez mieux comprendre pourquoi un outil serait mieux adapté à certains cas que l'autre et vous rappeler que ce qui est branché et à la mode n'est jamais ce qui convient le mieux au travail.
 
-Traduit avec www.DeepL.com/Translator
 
 ## 🚀 Introduction
 
